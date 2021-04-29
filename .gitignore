@@ -52,5 +52,5 @@ target/
 build/
 
 # Hadoop Spark
-output*
-checkpoint*
+output*/
+checkpoint*/
